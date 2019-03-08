@@ -3,12 +3,15 @@
 		<loc>https://matthewdrafting.com/index.html</loc>
 	</url>
 	<url>
-		<loc>https://matthewdrafting.com/NA.html</loc>
-	</url>
-	<url>
 		<loc>https://matthewdrafting.com/Payment.html</loc>
 	</url>
 	<url>
 		<loc>https://matthewdrafting.com/Terms.html</loc>
+	</url>
+	<url>
+		<loc>https://matthewdrafting.com/Not Available.html</loc>
+	</url>
+	<url>
+		<loc>https://matthewdrafting.com/404.html</loc>
 	</url>
 </urlset>
