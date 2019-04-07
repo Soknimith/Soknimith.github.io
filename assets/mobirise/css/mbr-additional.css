@@ -1382,6 +1382,17 @@ body {
     flex: auto!important;
   }
 }
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #149dcc;
+  color: #ffffff;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #149dcc;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -4346,33 +4357,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rkYnCpE9bo {
-  background-image: url("../../../assets/images/intro-bg-2000x1335.jpg");
-}
-.cid-rkYjFdCTFF {
-  background-image: url("../../../assets/images/03.jpg");
-}
-.cid-rkYjFdCTFF .icons-media-container {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-rkYjFdCTFF .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-rkYjFdCTFF .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-rkYjFdCTFF .mbr-text {
-  color: #ffffff;
-}
-.cid-rkYjFdCTFF .card {
-  padding-bottom: 1.5rem;
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
 .cid-rmRKp2JiYX {
   padding-top: 60px;
@@ -4624,6 +4609,7 @@ body {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #f9f295);
 }
 .cid-rmRMYvax9N .mbr-section-subtitle {
   color: #efefef;
@@ -4633,6 +4619,32 @@ body {
 }
 .cid-rmRMYvax9N H2 {
   color: #ffffff;
+}
+.cid-rkYjFdCTFF {
+  background-image: url("../../../assets/images/03.jpg");
+}
+.cid-rkYjFdCTFF .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-rkYjFdCTFF .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-rkYjFdCTFF .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-rkYjFdCTFF .mbr-text {
+  color: #ffffff;
+}
+.cid-rkYjFdCTFF .card {
+  padding-bottom: 1.5rem;
 }
 .cid-rmSIBmyvO9 {
   padding-top: 90px;
