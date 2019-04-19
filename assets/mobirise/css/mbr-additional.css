@@ -4360,12 +4360,15 @@ body {
   background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
 .cid-rmRKp2JiYX {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #149dcc;
 }
 .cid-rmRKp2JiYX .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
+}
+.cid-rmRKp2JiYX H2 {
+  color: #ffffff;
 }
 .cid-rmRECsDKcZ .modal-body .close {
   background: #1b1b1b;
