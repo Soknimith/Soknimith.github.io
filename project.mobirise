@@ -27,16 +27,12 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": [
-        "#70c2de",
-        "#72cae9",
-        "#ab9a62"
-      ]
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 18,
+    "uniqCompNum": 17,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "siteUrl": "https://matthewdrafting.com/",
@@ -48,7 +44,7 @@
     "noImageResize": "",
     "sitemapSwitcher": "on",
     "witsec-form-subject": "Subscribe/Contact",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-133571510-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-133571510-1');\r\n</script>",
+    "google-analytics": "<!-- Google Tag Manager (noscript) -->\r\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PSHMSS8\"\r\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<!-- End Google Tag Manager (noscript) -->",
     "сanonical-url": ""
   },
   "pages": {
